@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/rajshekarj9/PipelinesDotnetCore/_apis/build/status/rajshekar2242.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rajshekarj9/PipelinesDotnetCore/_build/latest?definitionId=2&branchName=master)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
