@@ -1,4 +1,4 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+### Sample ASP.NET Core application for Azure Pipelines docs ##
 
 [![Build Status](https://dev.azure.com/rajshekarj9/PipelinesDotnetCore/_apis/build/status/rajshekar2242.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rajshekarj9/PipelinesDotnetCore/_build/latest?definitionId=2&branchName=master)
 
